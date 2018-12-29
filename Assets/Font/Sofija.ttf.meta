@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9a14a8769007cb6479e6173c4fd2dbee
+timeCreated: 1545573711
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sofija
+  fontNames:
+  - Sofija
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
